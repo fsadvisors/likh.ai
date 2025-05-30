@@ -1,7 +1,0 @@
-streamlit
-openai
-pandas
-Pillow
-xlsxwriter
-openpyxl
-PyPDF2
